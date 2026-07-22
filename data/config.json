@@ -1,0 +1,10 @@
+{
+  "site_title": "放課後等デイサービス比較ガイド",
+  "site_description": "放課後等デイサービス・児童発達支援の事業所探しと選び方をやさしく紹介するサイトです。",
+  "site_url": "https://ham225.github.io/houkago-day-guide",
+  "author": "放課後等デイサービス比較ガイド編集部",
+  "articles_per_run": 3,
+  "model": "claude-sonnet-4-6",
+  "ga_measurement_id": "",
+  "disclaimer": "本サイトは情報提供を目的とした紹介サイトであり、相談支援や医療的な判断は行いません。掲載内容は各事業所からの情報等をもとに構成しており、最新の状況は必ず事業所に直接ご確認ください。"
+}

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 秘密情報（万一ローカルに作っても絶対にコミットしない）
+.env
+*.key
+secret*
